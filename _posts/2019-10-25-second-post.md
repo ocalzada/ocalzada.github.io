@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sentiment Analysis of Yelp Reviews
-image: /img/climate-change-stock-photo.jpg
+image: https://github.com/ocalzada/adjusted-_sentimental_analysis-/blob/master/assets/chef.jpeg
 ---
 
 Using natural language processing (NLP) and machine learning techniques, 
