@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sentiment Analysis of Yelp Reviews
-image: /img/tacos.jpeg
+image: /img/tacos2.jpeg
 ---
 
 Using natural language processing (NLP) and machine learning techniques, 
