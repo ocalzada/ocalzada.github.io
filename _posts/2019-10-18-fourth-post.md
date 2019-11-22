@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TwitOff
-image: /img/climate-change-stock-photo.jpg
+image: /img/Twitter.jpeg
 ---
 
 An application to pull and analyze the content of user tweets and then predict which user is more like to say a given new tweet. 
