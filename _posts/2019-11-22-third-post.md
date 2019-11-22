@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Image Processing using Convolutional Neural Networks
-image: 'https://github.com/Build-Week-Pic-Metric-1/Marketing-Page/blob/master/design-files/Pic%20Metric%20Desktop%20Markup.png'
+image: /github.com/Build-Week-Pic-Metric-1/Marketing-Page/blob/master/design-files/Pic%20Metric%20Desktop%20Markup.png
 ---
 
 Our machine learning algorithm takes in a URL corresponding to a JPEG image. 
